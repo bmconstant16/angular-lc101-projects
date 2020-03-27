@@ -1,0 +1,11 @@
+.chores {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: peru;
+    border-style: double
+}
+
+ul {
+    font-style: italic;
+}

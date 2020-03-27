@@ -3,9 +3,13 @@ h3 {
 }
 
 img {
-
+   max-width: 80%;
+  
 }
 
 .photos {
    text-align: center;
+   border-right-style: dashed;
+   border-left-style: dashed;
+   padding: 10px
 }
