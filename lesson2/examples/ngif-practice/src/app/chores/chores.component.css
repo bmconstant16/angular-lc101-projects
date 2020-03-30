@@ -17,7 +17,17 @@ img {
     margin: auto;
 }
 
-p {
+.howToIceCream {
+    color: lightgreen
+}
+
+
+.work {
 
     color: orange
 }
+
+.noallowance{
+    color: black
+}
+
