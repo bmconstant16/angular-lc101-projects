@@ -23,3 +23,12 @@ button {
 .copper {
    background: #b87333 ;
 }
+
+.buttonFun {
+   text-align: right;
+
+}
+
+.special {
+   background-color: blue;
+}
